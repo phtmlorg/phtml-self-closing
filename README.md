@@ -22,6 +22,14 @@
 
 ## Usage
 
+Transform HTML files directly from the command line:
+
+```bash
+npx phtml source.html output.html -p @phtml/self-closing
+```
+
+### Node
+
 Add [pHTML Self Closing] to your project:
 
 ```bash
